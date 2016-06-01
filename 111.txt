@@ -1,11 +1,1 @@
-aaaaaaaaa
-bbbbbbbbb
-
-
-
-cccccccc
-ddddddddd
-
-z
-z
-z
+서버내용
